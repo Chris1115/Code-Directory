@@ -1,0 +1,5 @@
+@echo off
+cd "C:\MinGW\bin"
+gcc "isi path file project cpp mu (main.cpp)" -lstdc++ -o "isi path outputnya formatnya exe"
+nama outputnya
+pause
